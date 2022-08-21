@@ -1,2 +1,2 @@
 # To-doList
-you can subject to it.
+you can add subjects to it.
